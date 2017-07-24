@@ -1,0 +1,9 @@
+{
+    "name": "drupal/modules",
+    "description": "Drupal8 modules",
+    "type": "drupal-modules",
+    "license": "GPL-2.0+",
+    "require": {
+
+    }
+}
